@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp6Nmh2b2RtZXRodnFjMjRwMGR2cnk0NzJxMGF1eTJpMmRpdzdtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWIkjq1B0M18zsGfe8/giphy.gif" width="700">
+
 I'm Muhammad Sandi from Indonesia 🇮🇩
 
 📊 Statistics Graduate
