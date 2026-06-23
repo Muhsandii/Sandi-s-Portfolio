@@ -28,6 +28,7 @@ I'm Muhammad Sandi from Indonesia a Statistics graduate skilled in data analysis
 ## ✅ Projects Done
 
 - 🏡 [Jakarta House Prices Prediction](https://github.com/Muhsandii/Application-of-Random-Forest-Regression-to-Predict-House-Prices-in-Jakarta)
+- 🚲 [Bike Rental Analysis](https://github.com/Muhsandii/Bike-Rental-Analysis)
 - 🏢 [Company ESG Financial Analysis](https://github.com/Muhsandii/Company-ESG-Financial-Analysis)
 - 🏷️ [Retail Sales Analysis](https://github.com/Muhsandii/Retail-Sales-Analysis)
 
