@@ -92,6 +92,18 @@ Developed a sales analytics project to uncover product performance, customer pur
 
 ---
 
+### [Adidas Sales Performance Dashboard](https://github.com/Muhsandii/Adidas-Sales-Performance-Dashboard)
+Adidas operates across multiple regions, product categories, and sales channels. Understanding sales performance and profitability is critical for identifying growth opportunities, optimizing inventory allocation, and improving commercial decision-making. This project aims to analyze Adidas sales data and develop an interactive dashboard that enables stakeholders to monitor revenue performance, profitability, and market trends.
+**Key Highlights**
+* Revenue Concentration
+* Product Performance
+* Channel Effectiveness
+* Seasonal Trends
+
+**Tools:** Excel, Statistics, Power BI
+
+---
+
 ### 🌱 [ESG Financial Performance Analysis](https://github.com/Muhsandii/Company-ESG-Financial-Analysis)
 
 Explored the relationship between Environmental, Social, and Governance (ESG) performance and company financial outcomes.
@@ -103,20 +115,6 @@ Explored the relationship between Environmental, Social, and Governance (ESG) pe
 * Generated insights for sustainable business evaluation
 
 **Tools:** Python, Excel, Statistics
-
----
-
-### 🚲 Bike Rental Demand Analysis
-
-Analyzed bike-sharing usage patterns to understand demand drivers and support operational decision-making.
-
-**Key Highlights**
-
-* Investigated seasonal and weather-related impacts on rentals
-* Identified peak demand periods
-* Built predictive models to estimate rental demand
-
-**Tools:** Python, Data Analysis, Machine Learning
 
 ---
 
