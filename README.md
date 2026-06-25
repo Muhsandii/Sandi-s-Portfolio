@@ -77,6 +77,19 @@ Analyzed real estate listings collected from the Jakarta housing market to ident
 
 ---
 
+### 👟 [Adidas Sales Performance Dashboard](https://github.com/Muhsandii/Adidas-Sales-Performance-Dashboard)
+Adidas operates across multiple regions, product categories, and sales channels. Understanding sales performance and profitability is critical for identifying growth opportunities, optimizing inventory allocation, and improving commercial decision-making. This project aims to analyze Adidas sales data and develop an interactive dashboard that enables stakeholders to monitor revenue performance, profitability, and market trends.
+
+**Key Highlights**
+* Revenue Concentration
+* Product Performance
+* Channel Effectiveness
+* Seasonal Trends
+
+**Tools:** Excel, Statistics, Power BI
+
+---
+
 ### 🛍️ [Retail Sales Analysis](https://github.com/Muhsandii/Retail-Sales-Analysis)
 
 Developed a sales analytics project to uncover product performance, customer purchasing patterns, and business opportunities from retail transaction data.
@@ -89,18 +102,6 @@ Developed a sales analytics project to uncover product performance, customer pur
 * Created actionable recommendations for business improvement
 
 **Tools:** Python, SQL, Power BI
-
----
-
-### [Adidas Sales Performance Dashboard](https://github.com/Muhsandii/Adidas-Sales-Performance-Dashboard)
-Adidas operates across multiple regions, product categories, and sales channels. Understanding sales performance and profitability is critical for identifying growth opportunities, optimizing inventory allocation, and improving commercial decision-making. This project aims to analyze Adidas sales data and develop an interactive dashboard that enables stakeholders to monitor revenue performance, profitability, and market trends.
-**Key Highlights**
-* Revenue Concentration
-* Product Performance
-* Channel Effectiveness
-* Seasonal Trends
-
-**Tools:** Excel, Statistics, Power BI
 
 ---
 
